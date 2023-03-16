@@ -234,7 +234,7 @@ header .themeSelector .activeTheme {
   }
 
   .addTask form input {
-    flex-grow: 0;
+    /* flex-grow: 0; */
     width: 85%;
     padding: 3.5px;
     border: 1px solid #eaeaea;
